@@ -1,3 +1,5 @@
+![guess-the-number-game-in-python](https://user-images.githubusercontent.com/87110136/132977043-32ec45ca-e30c-4384-9bfe-b2159575691f.png)
+
 # [Number-Guessing-Game] 
 A number guessing game aims to guess the number that the program has come up with. 
 <p> # Essentially the program logic is: </p>
